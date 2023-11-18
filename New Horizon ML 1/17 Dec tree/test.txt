@@ -1,0 +1,4 @@
+country,economy
+egypt,0.2
+germany,0.7
+usa,0.9
