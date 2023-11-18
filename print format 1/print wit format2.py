@@ -1,0 +1,5 @@
+cord=(10,20,30)
+l="x={} y={} z={}".format(*cord)
+print(l)
+l="x={} y={} z={}".format(cord[0],cord[1],cord[2])
+print(l)
